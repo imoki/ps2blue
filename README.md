@@ -9,8 +9,6 @@ esp32蓝牙摇杆鼠标
 1.先安装ESP32蓝牙鼠标模拟库
 ```
 https://github.com/T-vK/ESP32-BLE-Mouse
-或
-https://gitee.com/onlykeri/ESP32-BLE-Keyboard.git
 ```
 
 2.电路接线
